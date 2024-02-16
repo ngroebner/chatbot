@@ -1,0 +1,3 @@
+llama_cpp
+pydantic
+huggingface_hub
